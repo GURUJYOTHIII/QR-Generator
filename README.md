@@ -4,7 +4,7 @@ Description:
 The QR Code Generator is a powerful web application that allows users to create QR codes quickly and easily. QR codes are versatile and can be used for various purposes, such as sharing website links, contact information, Wi-Fi network details, and more. This application simplifies the process of generating QR codes for a wide range of use cases.
 
 Demo :
-You can try the live demo of this QR Code Generator by following this link  
+You can try the live demo of this QR Code Generator by following this link  (https://gurujyothiii.github.io/QR-Generator/)
 
 Features :
 
